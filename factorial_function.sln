@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "factorial_function", "factorial_function\factorial_function.pyproj", "{63F3500C-1B2B-4A0D-8324-3CD913A1ED61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F3500C-1B2B-4A0D-8324-3CD913A1ED61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F3500C-1B2B-4A0D-8324-3CD913A1ED61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B65B9EA-4351-4654-B356-1A08F489B132}
+	EndGlobalSection
+EndGlobal
